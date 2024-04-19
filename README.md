@@ -1,11 +1,11 @@
-## Olá, eu sou Wescley Torres.
-Profissional experiente em Front-End com especialização em React, atualmente ampliando meu conjunto de habilidades
-para incluir o Back-End. Apaixonado por criar experiências de usuário envolventes por meio de interfaces intuitivas.
-Ansioso para aplicar meu conhecimento em constante evolução no Front-End para desenvolver aplicações abrangentes e
-fluidas.
+## Hi, I'm Wescley Torres. 👋🏻
 
-- 🌱 Tenho conhecimento e experiência em React, Next, React Query, Next-Auth, Keycloak, Javascript, Typescript, Redux, TailwindCSS, Shadcn/ui, ChakraUI, Style Components, TurboRepo, Figma, Cypress.
-- 💬 Contate-me no email: jewescley@hotmail.com
+Experienced Front-End professional with a specialization in React, currently expanding my skill set to include Back-End.
+Passionate about creating engaging user experiences through intuitive interfaces. Excited to apply my constantly evolving
+Front-End knowledge to develop comprehensive and seamless applications.
+
+- 🌱 Experienced: React, Next, React Query, Next-Auth, Keycloak, Javascript, Typescript, Redux, TailwindCSS, Shadcn/ui, ChakraUI, Style Components, TurboRepo, Figma, Cypress.
+- 💬 Contact: jewescley@hotmail.com
 
  <div>
   <a href="https://github.com/wescleytorres">
