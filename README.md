@@ -10,7 +10,7 @@ Front-End knowledge to develop comprehensive and seamless applications.
  <div>
   <a href="https://github.com/wescleytorres">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wescleytorres&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wescleytorres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wescleytorres&show_icons=true&theme=dracula&include_all_commits=true&count_private=truelocale=en" alt="wescleytorres" />
 </div>
   
  <div style="display: inline_block"><br>
